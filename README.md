@@ -1,7 +1,7 @@
 ## Crypto currency price trackiong app
 
 
-[Deployed URL}(https://crypt-project-coin-gecko.vercel.app/)
+[Deployed URL](https://crypt-project-coin-gecko.vercel.app/)
 
  - Reusable components made using presenter container pattern
  - Custom hooks implemented
